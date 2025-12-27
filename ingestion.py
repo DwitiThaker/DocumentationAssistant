@@ -67,7 +67,6 @@ async def main():
         "url": "https://python.langchain.com/",
         "max_depth": 1,
         "extract_depth": "advanced",
-        # "instructions": "content on ai agents" #filtering
     })
 
     all_docs = [Document(page_content=result['raw_content'], 
