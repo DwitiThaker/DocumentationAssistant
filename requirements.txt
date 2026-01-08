@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+
+langchain-core
+langchain-text-splitters
+
+langchain-pinecone
+pinecone-client
+
+langchain-google-genai
+langchain-ollama
+
+langchain-tavily
+tavily-python
+
+certifi
